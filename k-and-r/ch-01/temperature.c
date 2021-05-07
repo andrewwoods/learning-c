@@ -4,7 +4,8 @@
  * Produce a table of temperatures converting Fahrenheit to Celsius
  */
 main() {
-    int fahr, celsius;
+    int fahr;
+    float celsius;
     int lower, upper, step;
 
     lower = 0;
@@ -13,8 +14,8 @@ main() {
 
     fahr = lower;
     while(fahr < upper) {
-        celsius = 5 * (fahr - 32) / 9;
-        printf("%d\t%d\n", fahr, celsius);
+        celsius = (5.0 / 9.0) * (fahr - 32);
+        printf("%3d\t%6.1f\n", fahr, celsius);
         fahr = fahr + step;
     }
 }
