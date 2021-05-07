@@ -24,6 +24,16 @@ posts. I'm not going to clutter my blog with these language learning
 posts. If you're reading this on GitHub, you're exactly the type of
 person that might find this interesting.
 
+## Posts
+
+It's tempting to jump straight into watching tutorials on YouTube.
+Instead, I'm using a more structured approach. To get started, I'm
+reading the book "The C Programming Language" by Brian W. Kernighan and
+Dennis M. Ritchie - which is one of the definitive books on software
+development, especially for C developers. So I'm gonna do the exercises
+in each chapter. The posts I write will be a reflection on the content,
+and my experience writing solutions for the exercises.
+
 ## Setup
 
 ### My Computer
