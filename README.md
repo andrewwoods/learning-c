@@ -24,6 +24,24 @@ posts. I'm not going to clutter my blog with these language learning
 posts. If you're reading this on GitHub, you're exactly the type of
 person that might find this interesting.
 
+## Setup
+
+### My Computer
+
+```
+Operating System: MacOS Big Sur 11.2.3
+MacBook Pro (16-inch, 2019)
+Processor: 2.3 GHz 8-Core Intel Core i9
+Memory: 32 GB 2667 MHz DDR4
+Graphics: Intel UHD Graphics 630 1536 MB
+```
+
+### Coding Environment 
+
+```
+IDE: VSCode 1.56
+Compiler: Apple clang version 12.0.0 (clang-1200.0.32.29)
+```
 
 
 ## Resources
