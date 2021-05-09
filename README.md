@@ -34,6 +34,10 @@ development, especially for C developers. So I'm gonna do the exercises
 in each chapter. The posts I write will be a reflection on the content,
 and my experience writing solutions for the exercises.
 
+### The K&R Chronicles
+
+* [Chapter 1](k-and-r/posts/ch-01.md): A Tutorial Introduction
+
 ## Setup
 
 ### My Computer
